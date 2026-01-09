@@ -1,0 +1,4 @@
+jdk:
+  - temurin-17
+install:
+  - ./gradlew :utils:publishToMavenLocal
